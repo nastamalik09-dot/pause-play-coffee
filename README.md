@@ -13,4 +13,4 @@
 * GitHub Pages
 
 ## 📸 Скриншот
-![Preview](./images/hero.png)
+![Preview](./images/Desktop - 1.png)
